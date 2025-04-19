@@ -1,0 +1,7 @@
+# Ignore entire .idea folder
+.idea/
+
+# 🚀 Virtual environments
+venv/
+.env/
+env/
