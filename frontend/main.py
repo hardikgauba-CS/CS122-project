@@ -1,15 +1,12 @@
-# Main.py intializes project.
-# Launchs UI
+# Launches the app
 # TODO Include proper documentation in the form of docstrings for classes, functions, and methods.
 
-import tkinter as tk
-from tkinter import ttk
-def main():
-    print("Start of program")
-    root = tk.Tk()
-    root.title("BudgetBuddy")
+from gui import gui_init
 
-    root.mainloop()
+def main():
+    print('Program started')
+    gui_init()
+    print('Program exited')
 
 
 if __name__ == "__main__":
