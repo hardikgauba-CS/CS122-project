@@ -1,7 +1,7 @@
 # BudgetBuddy
 
 ## Project Title: BudgetBuddy
-<img width="1091" alt="Screenshot 2025-04-25 at 2 24 29 PM" src="https://github.com/user-attachments/assets/0e76212b-784d-439f-ad0b-044abe9fd363" />
+<img width="500" alt="Screenshot 2025-04-25 at 2 24 29 PM" src="https://github.com/user-attachments/assets/0e76212b-784d-439f-ad0b-044abe9fd363" />
 
 ## Group Members: Javier Aguilar Ochoa, Hardik Gauba
 
